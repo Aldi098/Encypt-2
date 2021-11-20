@@ -13,11 +13,11 @@
 
 
 ### SEBELUM DI ENCYPT
- <img src="https://github.com/Aldi098/key/blob/main/Screenshot_20211114_215516.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/Aldi098/Encypt-2/blob/main/20211120_151312.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 ### SESUDAH DI ENCYPT
- <img src="https://github.com/Aldi098/key/blob/main/Screenshot_20211114_215516.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/Aldi098/Encypt-2/blob/main/20211120_151542.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 
