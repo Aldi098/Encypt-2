@@ -18,14 +18,14 @@ $ pkg install python
 $ pip install requests
 $ pkg install nano
 $ pkg install git
-$ git clone https://github.com/Aldi098/SMS
-$ cd SMS
-$ python run.py
+$ git clone https://github.com/Aldi098/Encypt-2
+$ cd Encypt-2
+$ python2 main.py
 
 ```
 
 ## fungsi
-- [x] SMS gratis Tidak Menggunakan pulsa
+- [x] encypt python
 
 > Kalo ada yang eror silahkan hubungi saya Yo ^_^
 
