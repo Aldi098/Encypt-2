@@ -12,29 +12,20 @@
 </p>
 
 
-### SEBELUM DI ENCYPT
- <img src="https://github.com/Aldi098/Encypt-2/blob/main/20211120_151312.jpg" width="440" title="Menu" alt="Menu">
-</p>
-
-### SESUDAH DI ENCYPT
- <img src="https://github.com/Aldi098/Encypt-2/blob/main/20211120_151542.jpg" width="440" title="Menu" alt="Menu">
-</p>
-
-
 ## install
 ```python3
-$ pkg install mc
-$ pkg install python2
+$ pkg install python
+$ pip install requests
 $ pkg install nano
 $ pkg install git
-$ git clone https://github.com/Aldi098/Encypt-2
-$ cd Encypt-2
-$ python2 main.py
+$ git clone https://github.com/Aldi098/SMS
+$ cd SMS
+$ python run.py
 
 ```
 
 ## fungsi
-- [x] Encypt python2
+- [x] SMS gratis Tidak Menggunakan pulsa
 
 > Kalo ada yang eror silahkan hubungi saya Yo ^_^
 
