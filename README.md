@@ -14,7 +14,7 @@
 
 ## install
 ```python3
-$ pkg install python
+$ pkg install python2
 $ pip install requests
 $ pkg install nano
 $ pkg install git
